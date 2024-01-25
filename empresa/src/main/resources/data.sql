@@ -1,0 +1,10 @@
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10234567899', 'Juan Pardo Mosquera', 'Surco', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10987654329', 'Cecilia Bosio Ruiz', 'Ate Vitarte', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10789456129', 'Julio Marquez Vera', 'La Molina', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10543219879', 'Jose Carlos Brent Castro', 'La Molina', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10456789029', 'Juan Carlos Borja Garrido', 'Surco', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10876543219', 'Maria Alvarado Trinidad', 'La Victoria', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10123456789', 'Lucio Quispe Porras', 'Cercado de Lima', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10678901239', 'Julian Roque Marcos', 'La Victoria', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10345678929', 'Antonio Gonzaga Pardo', 'Surco', 'ACTIVA');
+INSERT INTO empresas(ruc, razon_social, direccion, estado) VALUES ('10098765439', 'Joseph Coloma Basso', 'Cercado de Lima', 'ACTIVA');
