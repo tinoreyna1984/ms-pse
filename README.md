@@ -9,12 +9,12 @@
 
 ### Empresa
 
-GET, POST: http://localhost:8004/empresa
-GET, PUT, DELETE: http://localhost:8004/empresa/{id}
+* GET, POST: http://localhost:8004/empresa
+* GET, PUT, DELETE: http://localhost:8004/empresa/{id}
 
 ### ListaEmpresas
 
-GET: http://localhost:8005/empresa
+* GET: http://localhost:8005/empresa
 
 ### Eureka
 
