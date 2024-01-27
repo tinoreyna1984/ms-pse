@@ -3,7 +3,7 @@
 ## Orden de ejecución
  1. Eureka Server
  2. Los microservicios Empresa y ListaEmpresas
- 3. Zuul
+ 3. Zuul o Spring Cloud Gateway
 
 ## Endpoints
 
